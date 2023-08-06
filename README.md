@@ -4,8 +4,7 @@
 
 - <b>Capturing Live Traffic And Configuring Capture Filters.</b> 
 - <b>Analysing PCAP Files</b>
-- <b>Viewing Capture Statistics (Protocol Hierarchy, Conversations And Endpoints).</b>
-<br />
+- <b>Viewing Capture Statistics (Protocol Hierarchy, Conversations And Endpoints).</b><br />
 
 <h2>Languages and Utilities Used:</h2>
 
@@ -70,7 +69,7 @@
  We will search the attacker's IP (192.168.56.1) > Statistics > Conversations > TCP > Sort by most packets sent B to A <br/>
  (A being attacker's address and B (192.168.56.103) is likely to be Window Server's IP) <br/>
 <p align="center"> 
- The port used is 8801, we can confirm this by following the TCP stream which confirms our findings as it looks like files are being <br/>
+ The port used is 8801, we can confirm this by following the TCP stream which confirms our findings as it looks like data are being <br/>
  sent to the attacker. <br/>
 <img src="https://i.imgur.com/sgVCc2L.png" height="80%" width="80%" /><br />
 <img src="https://i.imgur.com/0IoTBLA.png" height="80%" width="80%" /><br />
