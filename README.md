@@ -3,7 +3,7 @@
 <h2>Description:</h2>
 
 - <b>Capturing Live Traffic And Configuring Capture Filters.</b> 
-- <b>Analysing PCAP Files</b>
+- <b>Analysing PCAP Files from Man in the middle attacks</b>
 - <b>Viewing Capture Statistics (Protocol Hierarchy, Conversations And Endpoints).</b><br />
 
 <h2>Languages and Utilities Used:</h2>
@@ -82,6 +82,16 @@
  Q5 wants the file name created at 04.51 am  <br/>
  The file name is LogFile.log  <br/>
 <img src="https://i.imgur.com/J2RxvhA.png" height="80%" width="80%" /><br />
+
+<p align="center">
+  Introduction to Network Analysis by Blue Team Security  <br/>
+<img src="https://i.imgur.com/9bGO9U7.png" height="80%" width="80%" /><br />
+
+<p align="center">
+ Additional Wireshark and TCPDump practices  <br/>
+ https://www.malware-traffic-analysis.net/training-exercises.html
+
+
 
 
 </p>
